@@ -1,1 +1,2 @@
 -player NDB811 -sex 0 -faceindex 7 -zone Bavaria -city MyCity -flag Flag
+-player bbb333 -sex 0 -faceindex 7 -zone north march -city KUK1 -KUK
